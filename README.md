@@ -1,4 +1,5 @@
-<img src ="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8" align="right" width="300" height="300" />
+<img src ="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" align="right" width="300" height="300" />
+
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm maria kouchkar </h1>
 
